@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
         /* Reset some default styles */
         body, h1, ul {
@@ -55,4 +56,63 @@
             background-color: #333;
             color: #fff;
         }
+=======
+
+        /* Reset some default styles */
+        body, h1, ul {
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Basic styling */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+        }
+
+        /* Header styles */
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+        }
+
+        /* Navigation menu styles */
+        nav {
+            background-color: #444;
+            text-align: center;
+            padding: 0.5rem;
+        }
+
+        nav ul {
+            list-style: none;
+        }
+
+        nav ul li {
+            display: inline-block;
+            margin-right: 1rem;
+        }
+
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        /* Main content area styles */
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            background-color: #fff;
+        }
+
+        /* Footer styles */
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: #333;
+            color: #fff;
+        }
+>>>>>>> 586dff0a1234cf46e1cf49d985e1aa864d29f795
     
