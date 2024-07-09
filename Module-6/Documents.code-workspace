@@ -1,0 +1,45 @@
+{
+	"folders": [
+		{
+			"path": "../../../Users/sllov/Documents"
+		},
+		{
+			"name": "LoveModule-4.2",
+			"path": "../../../Users/sllov/Downloads/Module-4/LoveModule-4.2"
+		},
+		{
+			"path": "../../csd-340/Module-4/images"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "xprotocol",
+					"enableSsl": "Disabled"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "MyFirstSQLConnection",
+				"database": "lovedatabase",
+				"username": "Developer1",
+				"password": "Cod34Success"
+			}
+		],
+		"java.debug.settings.onBuildFailureProceed": true,
+		"java.completion.favoriteStaticMembers": [
+			
+			"org.junit.Assert.*",
+			"org.junit.Assume.*",
+			"org.junit.jupiter.api.Assertions.*",
+			"org.junit.jupiter.api.Assumptions.*",
+			"org.junit.jupiter.api.DynamicContainer.*",
+			"org.junit.jupiter.api.DynamicTest.*",
+			"org.mockito.Mockito.*",
+			"org.mockito.ArgumentMatchers.*",
+			"org.mockito.Answers.*"
+		]
+	}
+}
